@@ -1,0 +1,28 @@
+25 atkartojumi | BATCH_SIZE = 100
+Datu punktu skaits: 2049280 | Faila nolasisana: 41.53 s
+
+Atkartojums 1: Rakstisana 613.05 s
+Atkartojums 2: Rakstisana 615.24 s
+Atkartojums 3: Rakstisana 610.21 s
+Atkartojums 4: Rakstisana 622.45 s
+Atkartojums 5: Rakstisana 614.18 s
+Atkartojums 6: Rakstisana 614.97 s
+Atkartojums 7: Rakstisana 615.56 s
+Atkartojums 8: Rakstisana 616.81 s
+Atkartojums 9: Rakstisana 614.94 s
+Atkartojums 10: Rakstisana 618.27 s
+Atkartojums 11: Rakstisana 611.91 s
+Atkartojums 12: Rakstisana 615.07 s
+Atkartojums 13: Rakstisana 604.99 s
+Atkartojums 14: Rakstisana 612.58 s
+Atkartojums 15: Rakstisana 609.51 s
+Atkartojums 16: Rakstisana 611.86 s
+Atkartojums 17: Rakstisana 609.72 s
+Atkartojums 18: Rakstisana 611.77 s
+Atkartojums 19: Rakstisana 613.86 s
+Atkartojums 20: Rakstisana 609.89 s
+Atkartojums 21: Rakstisana 608.83 s
+Atkartojums 22: Rakstisana 603.26 s
+Atkartojums 23: Rakstisana 608.60 s
+Atkartojums 24: Rakstisana 605.77 s
+Atkartojums 25: Rakstisana 608.43 s
