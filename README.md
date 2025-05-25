@@ -6,7 +6,7 @@ Kopumā repozitorijā ir 42 faili:
 - 21 ievades skripts (`*.py`) – 9 datu ievades skripti (katrai datubāzei 3), 3 nolasīšanas testi un 9 vaicājumu izpildes skripti;
 - 21 rezultātu fails (`*.txt`) – atbilstošie izvades dati katram testam.
 
-Zemāk atrodams visu pielikumu saraksts atbilstoši numerācijai Bakalaura darbā:
+Visu pielikumu saraksts atbilstoši numerācijai Bakalaura darbā:
 
 | Pielikums        | Fails                                  | Apraksts                                        |
 |------------------|----------------------------------------|-------------------------------------------------|
